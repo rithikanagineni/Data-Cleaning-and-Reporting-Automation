@@ -1,0 +1,51 @@
+CustomerID,Name,Age,Email,Phone,City,Salary,Department,JoinDate,Status
+1,  john smith,25,john@email.com,555-0101,NEW YORK,50000,Sales,2023-01-15,Active
+2,JANE DOE,32,jane@email.com,555-0102,los angeles,65000,Marketing,2023-02-20,Active
+3,bob JOHNSON  ,,bob@email.com,,Chicago,55000,IT,2023-03-10,
+1,  john smith,25,john@email.com,555-0101,NEW YORK,50000,Sales,2023-01-15,Active
+5,Alice Brown,28,alice@email.com,555-0104,Houston,60000,HR,2023-05-01,Active
+6,Charlie Davis,150,charlie@email.com,555-0105,Phoenix,70000,Sales,,Active
+7,  EVA GREEN,29,,555-0106,Philadelphia,58000,IT,2023-07-15,Active
+8,FRANK white,35,frank@email.com,555-0107,san antonio,62000,Marketing,2023-08-20,Inactive
+9,Grace Lee,26,grace@email.com,,Dallas,54000,HR,2023-09-10,Active
+10,Henry miller  ,31,henry@email.com,555-0109,San Jose,68000,Sales,2023-10-05,Active
+11,Ivy Chen,29,ivy@email.com,555-0110,Austin,59000,IT,2023-11-15,Active
+2,JANE DOE,32,jane@email.com,555-0102,los angeles,65000,Marketing,2023-02-20,Active
+13,  Jack Wilson,27,jack@email.com,555-0112,Jacksonville,56000,HR,2024-01-10,Active
+14,KATE Anderson,33,kate@email.com,555-0113,San Francisco,71000,Sales,2024-02-14,Active
+15,Leo Martinez,30,,555-0114,Columbus,61000,IT,2024-03-20,Active
+16,Mary Taylor,-5,mary@email.com,555-0115,Fort Worth,57000,Marketing,2024-04-25,Active
+17,  NATHAN Moore,28,nathan@email.com,,Charlotte,63000,HR,2024-05-30,
+18,Olivia Jackson,34,olivia@email.com,555-0117,Detroit,69000,Sales,2024-06-15,Active
+19,Paul Thomas,26,paul@email.com,555-0118,El Paso,55000,IT,2024-07-20,Inactive
+20,  quinn white,31,,555-0119,Memphis,66000,Marketing,2024-08-10,Active
+21,Rachel Harris,29,rachel@email.com,555-0120,Seattle,58000,HR,2024-09-05,Active
+22,SAM Clark,35,sam@email.com,555-0121,Denver,72000,Sales,2024-10-15,Active
+23,Tina Lewis,27,tina@email.com,,Boston,56000,IT,2024-11-20,Active
+24,  Uma Walker,32,uma@email.com,555-0123,Nashville,64000,Marketing,2024-12-01,Active
+25,Victor Hall,28,victor@email.com,555-0124,Baltimore,59000,HR,,Active
+26,WENDY allen,30,wendy@email.com,555-0125,Oklahoma City,61000,Sales,2023-01-30,
+27,  Xavier young,33,,555-0126,Portland,67000,IT,2023-02-28,Active
+28,Yara King,29,yara@email.com,555-0127,Las Vegas,60000,Marketing,2023-03-25,Active
+29,Zack Wright,31,zack@email.com,,Louisville,62000,HR,2023-04-15,Inactive
+30,Amy Lopez,26,amy@email.com,555-0129,Milwaukee,55000,Sales,2023-05-20,Active
+31,  BRIAN Hill,34,brian@email.com,555-0130,Albuquerque,68000,IT,2023-06-10,Active
+32,Carol Scott,28,carol@email.com,555-0131,Tucson,57000,Marketing,,Active
+33,David Green,200,david@email.com,,Fresno,61000,HR,2023-08-25,Active
+34,  emma adams,27,emma@email.com,555-0133,Sacramento,56000,Sales,2023-09-30,
+35,Felix Baker,32,felix@email.com,555-0134,Kansas City,64000,IT,2023-10-20,Active
+22,SAM Clark,35,sam@email.com,555-0121,Denver,72000,Sales,2024-10-15,Active
+37,  HELEN Carter,29,helen@email.com,555-0136,Atlanta,59000,HR,2023-12-05,Active
+38,Ian Mitchell,31,,555-0137,Colorado Springs,62000,Sales,2024-01-15,Active
+39,Julia Perez,28,julia@email.com,555-0138,Raleigh,58000,IT,2024-02-20,Inactive
+40,KEVIN Roberts,33,kevin@email.com,,Miami,66000,Marketing,2024-03-10,Active
+41,  Linda Turner,27,linda@email.com,555-0140,Long Beach,57000,HR,2024-04-05,Active
+42,Mike Phillips,30,mike@email.com,555-0141,Virginia Beach,63000,Sales,,Active
+43,nina campbell  ,26,,555-0142,Oakland,55000,IT,2024-06-20,Active
+44,OSCAR Parker,34,oscar@email.com,555-0143,Minneapolis,68000,Marketing,2024-07-15,Active
+45,  Paula Evans,29,paula@email.com,,Tulsa,59000,HR,2024-08-25,
+46,Quinn Edwards,32,quinn@email.com,555-0145,Arlington,64000,Sales,2024-09-30,Active
+47,ROSE Collins,28,rose@email.com,555-0146,New Orleans,58000,IT,2024-10-10,Active
+48,  steve stewart,31,steve@email.com,555-0147,Wichita,62000,Marketing,2024-11-05,Inactive
+49,Tara Sanchez,27,,555-0148,Cleveland,56000,HR,2024-12-15,Active
+50,Umar Morris,33,umar@email.com,555-0149,Tampa,67000,Sales,2023-01-25,Active
